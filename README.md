@@ -1,2 +1,2 @@
 # Ondas
-Tratamento basico de dados de onda
+## Tratamento básico de dados de onda.
